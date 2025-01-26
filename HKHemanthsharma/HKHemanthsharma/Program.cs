@@ -128,7 +128,7 @@
                 Console.ReadLine();
             }
         }
-        static void history()
+        static void History()
         {
             if (li.Count == 0)
             {
